@@ -1,5 +1,5 @@
 # Percolation
-Estimation of the percolation threshold via Monte Carlo Simulation  
+Estimation of the percolation threshold for an n*n grid via Monte Carlo Simulation  
 Part of Algorithms - Part-1, Princeton University  
 
 Percolation. Given a composite systems comprised of randomly distributed insulating and metallic materials: what fraction of the materials need to be metallic so that the
