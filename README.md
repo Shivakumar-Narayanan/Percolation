@@ -24,7 +24,7 @@ Repeat the following until the system percolates:
      
 The fraction of sites that are opened when the system percolates provides an estimate of the percolation threshold.  
      
-To find if the system percolates we need to model the grid with the notion of "connectednes" and also be able to connect two sites.  
+To find if the system percolates we need to model the grid with the notion of "connectedness" and also be able to connect two sites.  
 The Union Find data structure provides these functionalities efficiently through the union(for connecting two sites) and find(to find if the system percolates) methods.  
 
 A source site is introduced, which is connected to all sites in the first row.  
